@@ -26,7 +26,6 @@ export const useFetch = (url) => {
         return err
       })
   }, [url])
-
-  console.log({results})
+  
   return results
 }

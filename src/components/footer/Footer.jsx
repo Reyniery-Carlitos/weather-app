@@ -1,7 +1,7 @@
 export default function Footer ({name}) {
   return (
     <footer className="my-5 flex flex-col items-center gap-4">
-      <div className="flex gap-5">
+      <div className="flex flex-col sm:flex-row gap-5">
         <div className="flex gap-3 items-center">
           <span className="bg-indigo-400 text-white p-1 rounded-lg"> Powered by </span>
           <a href="https://www.weatherapi.com/" target="__blank"> WeatherApi.com </a>
