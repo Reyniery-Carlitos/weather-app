@@ -31,6 +31,7 @@ Aplicacion para poder obtener pronosticos acerca del clima en un determinado lug
   - Mobile first Workflow
   - Custom hooks
   - Context API
+  - Debouncing Mechanism
 
 ## Developer ⚔️​
   - [Carlos Rubio](https://github.com/Reyniery-Carlitos) ​🐺​
